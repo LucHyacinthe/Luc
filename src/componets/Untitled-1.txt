@@ -1,0 +1,6 @@
+map: [1, 4, 7] => [2, 8, 14] // length: 3 = 3 | element * 2
+filter: [1, 4, 7] => [1, 7] // length 3 > 2 | element
+sort: [4, 1, 7] => [1, 4, 7]
+reduce: [1, 4, 7] => 12 // !length | any
+some: [1, 4, 7] => boolean //
+every: [1, 4, 7] => boolean

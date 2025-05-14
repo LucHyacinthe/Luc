@@ -1,0 +1,7 @@
+.container{
+    display: flex;
+}
+.colonne{
+    flex: 1;
+    padding: 10px;
+} 
